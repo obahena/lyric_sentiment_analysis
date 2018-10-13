@@ -1,0 +1,4 @@
+
+
+
+mynewstring <- "Hello world"
